@@ -8,6 +8,10 @@
 
 ### log file ###
 *.log
+build/
+.vscode/
+.env
+.DS_Store
 
 
 # Created by git when using merge tools for conflicts
