@@ -10,4 +10,4 @@ This is the furth line added from local repo in feature 1
 
 6th line added from the remote
 
-7th line added from the remote by dev 2
+7th line added from the remote by dev 2 and dev 1
